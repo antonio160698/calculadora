@@ -3,5 +3,5 @@ function hola(){
 }
 //pendeja
 function pendeja(){
-    //No te hagas pendeja
+    document.write("No te hagas pendeja");
 }
